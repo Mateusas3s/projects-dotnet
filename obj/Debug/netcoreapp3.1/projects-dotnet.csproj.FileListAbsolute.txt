@@ -1,0 +1,11 @@
+/home/mateusas3s/projects-dotnet/bin/Debug/netcoreapp3.1/projects-dotnet
+/home/mateusas3s/projects-dotnet/bin/Debug/netcoreapp3.1/projects-dotnet.deps.json
+/home/mateusas3s/projects-dotnet/bin/Debug/netcoreapp3.1/projects-dotnet.runtimeconfig.json
+/home/mateusas3s/projects-dotnet/bin/Debug/netcoreapp3.1/projects-dotnet.runtimeconfig.dev.json
+/home/mateusas3s/projects-dotnet/bin/Debug/netcoreapp3.1/projects-dotnet.dll
+/home/mateusas3s/projects-dotnet/bin/Debug/netcoreapp3.1/projects-dotnet.pdb
+/home/mateusas3s/projects-dotnet/obj/Debug/netcoreapp3.1/projects-dotnet.csprojAssemblyReference.cache
+/home/mateusas3s/projects-dotnet/obj/Debug/netcoreapp3.1/projects-dotnet.AssemblyInfoInputs.cache
+/home/mateusas3s/projects-dotnet/obj/Debug/netcoreapp3.1/projects-dotnet.AssemblyInfo.cs
+/home/mateusas3s/projects-dotnet/obj/Debug/netcoreapp3.1/projects-dotnet.dll
+/home/mateusas3s/projects-dotnet/obj/Debug/netcoreapp3.1/projects-dotnet.pdb
