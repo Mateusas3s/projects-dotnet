@@ -1,0 +1,11 @@
+/home/mateusas3s/projects-dotnet/Revisao/bin/Debug/netcoreapp3.1/Revisao
+/home/mateusas3s/projects-dotnet/Revisao/bin/Debug/netcoreapp3.1/Revisao.deps.json
+/home/mateusas3s/projects-dotnet/Revisao/bin/Debug/netcoreapp3.1/Revisao.runtimeconfig.json
+/home/mateusas3s/projects-dotnet/Revisao/bin/Debug/netcoreapp3.1/Revisao.runtimeconfig.dev.json
+/home/mateusas3s/projects-dotnet/Revisao/bin/Debug/netcoreapp3.1/Revisao.dll
+/home/mateusas3s/projects-dotnet/Revisao/bin/Debug/netcoreapp3.1/Revisao.pdb
+/home/mateusas3s/projects-dotnet/Revisao/obj/Debug/netcoreapp3.1/Revisao.csprojAssemblyReference.cache
+/home/mateusas3s/projects-dotnet/Revisao/obj/Debug/netcoreapp3.1/Revisao.AssemblyInfoInputs.cache
+/home/mateusas3s/projects-dotnet/Revisao/obj/Debug/netcoreapp3.1/Revisao.AssemblyInfo.cs
+/home/mateusas3s/projects-dotnet/Revisao/obj/Debug/netcoreapp3.1/Revisao.dll
+/home/mateusas3s/projects-dotnet/Revisao/obj/Debug/netcoreapp3.1/Revisao.pdb
